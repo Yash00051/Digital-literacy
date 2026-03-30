@@ -1,17 +1,15 @@
-Social media checklist-
+Social Media Do’s and Don’ts
 
 Do’s:
-
-1)Think before posting anything online
-2)Keep your profile professional
-3)Respect others’ opinions
-4)Use strong passwords
-5)Share useful content
+1. Maintain a professional profile.
+2. Use respectful and appropriate language.
+3. Share useful and informative content.
+4. Protect your personal information.
+5. Think before posting anything online.
 
 Don’ts:
-
-1)Don’t share personal information
-2)Don’t post offensive content
-3)Don’t spread fake news
-4)Don’t waste time on social media
-5)Don’t argue online
+1. Do not share passwords or sensitive data.
+2. Avoid posting inappropriate or offensive content.
+3. Do not engage in online arguments or harassment.
+4. Avoid spreading fake news or misinformation.
+5. Do not overshare personal details.
